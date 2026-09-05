@@ -31,14 +31,3 @@ Agricultural profitability depends heavily on unpredictable weather conditions, 
 * **Environment:** Google Colab / Jupyter Notebook
 
 ---
-
-## 📂 Repository Structure
-```text
-├── seasonal_agriculture_performance_analysis.ipynb   # Complete Python Colab Notebook
-├── seasonal_agriculture_performance_dataset.csv     # Primary Agriculture Dataset
-├── season_distribution.png                            # Chart 1: Seasonal Distribution
-├── seasonal_yield_profit.png                          # Chart 2: Yield vs Profit Analysis
-├── irrigation_profit.png                              # Chart 3: Profit by Irrigation Method
-├── correlation_heatmap.png                            # Chart 4: Feature Correlation Matrix
-├── Seasonal_Agriculture_Performance_Analysis.pptx   # Project Presentation Deck
-└── README.md                                          # Project Documentation
